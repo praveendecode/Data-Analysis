@@ -4,8 +4,8 @@
 
   
 
-## - Phonepe Data Exploration And visualization  : [View Project](https://github.com/praveendecode/phonepe_pulse)
+##  - Phonepe Data Exploration And visualization  : [View Project](https://github.com/praveendecode/phonepe_pulse)
 
-## - AirBnB  data analysis                       : [View project](https://github.com/praveendecode/Airbnb_Analysis)
+##  - AirBnB  data analysis                       : [View project](https://github.com/praveendecode/Airbnb_Analysis)
 
-###  Tableau Dashboard  For AirBnB               : [Visit Dashboard](https://public.tableau.com/app/profile/praveen.x.decode/viz/airbnb_16981379902390/Dashboard1)
+##  - Tableau Dashboard  For AirBnB               : [Visit Dashboard](https://public.tableau.com/app/profile/praveen.x.decode/viz/airbnb_16981379902390/Dashboard1)
