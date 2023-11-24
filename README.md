@@ -9,3 +9,5 @@
 ##  - AirBnB  data analysis                       : [View project](https://github.com/praveendecode/Airbnb_Analysis)
 
 ##  - Tableau Dashboard  For AirBnB               : [Visit Dashboard](https://public.tableau.com/app/profile/praveen.x.decode/viz/airbnb_16981379902390/Dashboard1)
+
+##  - Retail Sales Forecast                       : [Visit Project](https://github.com/praveendecode/IITM_DS_Final_Project/tree/main/Data%20Analysis)
