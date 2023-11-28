@@ -1,6 +1,7 @@
 # Data Analysis Projects
 
-  ![image](https://github.com/praveendecode/Data-Analysis-Projects/assets/95226524/76eb2807-608e-47d5-8d6e-09f8b9cc6403)
+  ![image](https://github.com/praveendecode/Data-Analysis-Projects/assets/95226524/c7247336-1ff3-4f7a-9a8f-05687f748a57)
+
 
   
 
