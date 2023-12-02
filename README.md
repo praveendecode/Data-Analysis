@@ -3,7 +3,8 @@
 ![image](https://github.com/praveendecode/Data-Analysis-Projects/assets/95226524/c7247336-1ff3-4f7a-9a8f-05687f748a57)
 
 
-  
+
+## Analytics For Health-care Data               : [View Project](https://github.com/praveendecode/Analytics-for-Hospitals-Health-Care-Data)
 
 ##  Phonepe Data Exploration And visualization  : [View Project](https://github.com/praveendecode/phonepe_pulse)
 
